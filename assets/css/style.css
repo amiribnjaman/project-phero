@@ -12,12 +12,15 @@
     width: 100%;
     min-height: 100vh;
 }
-
+.header-section h1{
+    font-weight: 600;
+    font-size: 45px;
+    letter-spacing: 1px;
+}
 .header-section ul li a, .navbar-brand,.header-section ul li a:hover{
     color: #fff;
     font-size: 15px;
 }
-
 .badge {
     width: 50%;
     height: 65%;
@@ -46,6 +49,16 @@
     height: 100%;
     border-radius: 50%;
 }
-.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-brand, .navbar-light .navbar-collapse{
+.navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-nav .nav-link:hover, 
+/* .navbar-light .navbar-brand,  */
+/* .navbar-light .navbar-brand:hover,  */
+.navbar-light .navbar-collapse{
     color: #fff;
+}
+
+/*------ Slider section style -------*/
+.slider-section{
+    margin-top: 60px;
+    margin-bottom: 30px;
 }

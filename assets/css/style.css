@@ -37,12 +37,15 @@
 }
 
 .profile{
-    width: 60px;
-    height: 60px;
+    width: 58px;
+    height: 58px;
     margin-top: -5px;
 }
 .profile img{
     width: 100%;
     height: 100%;
     border-radius: 50%;
+}
+.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-brand, .navbar-light .navbar-collapse{
+    color: #fff;
 }

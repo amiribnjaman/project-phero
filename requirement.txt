@@ -1,0 +1,38 @@
+primary-color: #2666CF
+text color: #383838;
+secondary-color: #ff136f
+fonts-size: 
+	h2: 40px
+	h3: 34px
+	h5: 18px
+	span, p: 17px
+header section: 
+	At first, site must have a navbar in the top side. and nav have two side. left and right. left have an image 	that will be brand logo. right side will hold an menu. menu have 6 items. support, my classes, notification 	icon, cart icon, gems icon and profile imgage.
+	
+	then, header-banner. this section will hold slider. slider hold few images. every images will hold a title, 	
+	content and button.
+
+next-course info:
+	this section have an info about next course.
+
+about the course: 
+	this section will hold explanation and benefication about this full course. left side will be an image and 	
+	right side will have contents.
+
+course module details:
+	course module details section will hold details explanation about course module.
+
+faq section: 
+	faq- section will explain some common frequntly ask questions.
+
+about trainer: 
+	about section will explain simply on about the trainer.
+
+fedback section: 
+	this section show some of previous students opinion or fedback.
+
+
+footer:
+	footer section will hold three column. first will be address, second, about us and last will be a pay card.
+
+

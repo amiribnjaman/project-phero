@@ -15,7 +15,7 @@
 .header-section h1 {
     line-height: 65px;
     font-weight: 600;
-    font-size: 45px;
+    font-size: 40px;
     letter-spacing: 1px;
 }
 .header-section ul li a, .navbar-brand,.header-section ul li a:hover{
@@ -103,4 +103,23 @@
 }
 .regi-btn-grp button{
     padding: 12px;
+}
+
+/*------ Course Outline Style ------*/
+.course-outline{
+    margin-top: 50px;
+}
+.enroll, .enroll:hover {
+    width: 100%;
+    background: linear-gradient(#653EF5, #6129ED);
+    color: #fff;
+    margin-top: 10px;
+    padding: 10px;
+}
+.check-icon{
+    margin-top: 6px;
+    width: 24%;
+    height: 15%;
+    border-radius: 4px;
+    margin-right: 8px;
 }

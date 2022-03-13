@@ -132,7 +132,7 @@ body{
     padding: 70px 0;
 }
 .speciality-head {
-    width: 360px;
+    max-width: 360px;
 }
 .speciality-sec .row h5{
     font-size: 17px;

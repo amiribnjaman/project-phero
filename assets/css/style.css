@@ -70,7 +70,35 @@
 .slider-section{
     margin-top: 60px;
     margin-bottom: 30px;
+    padding-bottom: 90px;
 }
 .carousel-item p{
     letter-spacing: .6px;
+}
+.carousel-item img {
+    width: 100%;
+    height: 400px;
+}
+
+/*------ Next Batch section ------*/
+.nxt-batch{
+    margin-top: -100px;
+    margin-bottom: 50px;
+}
+.nxt-batch i{
+    margin-right: 10px;
+}
+.nxt-batch h6 p {
+    display: inline;
+    padding: 3px 4px 4px 6px;
+    margin-right: 10px;
+    border-radius: 5px;
+
+}
+.regi-btn-grp{
+    background-color: rgb(97,41,237);
+    padding: 6px;
+}
+.regi-btn-grp button{
+    padding: 12px;
 }

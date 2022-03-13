@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 
 /*------ Common Stylse ------*/
-*, body{
+body{
     font-family: 'Poppins', sans-serif;
     color: #383838;
+    overflow-x: hidden;
 }
 
 /*------ Header setion style ------*/
@@ -125,6 +126,14 @@
 }
 
 /*------ Course Speciality ------*/
+.speciality-sec{
+    width: 100%;
+    background: rgb(245,247,255);
+    padding: 70px 0;
+}
+.speciality-head {
+    width: 360px;
+}
 .speciality-sec .row h5{
     font-size: 17px;
 }
